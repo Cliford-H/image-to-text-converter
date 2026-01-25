@@ -35,13 +35,14 @@ image-to-text-converter/
 
 ## ⚙️ How to Run the Project
 
-### 1️⃣ Clone the repository
+ 1️Clone the repository
 ```bash
 git clone https://github.com/Cliford-H/image-to-text-converter.git
 cd image-to-text-converter
-   2️⃣ Install dependencies
-   pip install -r requirements.txt
-   3️⃣ Run the application
+Install dependencies
+pip install -r requirements.txt
+
+Run the application
    python app.py
 
 
